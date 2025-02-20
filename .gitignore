@@ -1,0 +1,21 @@
+# Unity Generated Files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools*
+
+# Visual Studio / VS Code Files
+/.vscode/
+*.csproj
+*.sln
+
+# Logs and Miscellaneous
+*.log
+*.pidb
+*.unitypackage
+/Sys*
+
+# Windows-specific
+Thumbs.db

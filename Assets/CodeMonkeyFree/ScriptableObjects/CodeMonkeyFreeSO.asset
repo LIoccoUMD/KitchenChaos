@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d777d270cee3a5c419cb21a828556f1a, type: 3}
+  m_Name: CodeMonkeyFreeSO
+  m_EditorClassIdentifier: 
+  currentVersion: 1.00
+  subtype: kitchenchaos
+  lastShownTimestamp: 1739999872
+  lastUpdateResponse:
+    version: 1.00
+    versionUrl: https://unitycodemonkey.com
+  checkedLastUpdateTimestamp: 1739999872
+  lastQOTDResponse:
+    questionId: 152
+    questionText: What is the main difference between the out and ref keywords? (behaviour
+      inside the function)
+    answerA: out doesn't need to be set; ref MUST be set
+    answerB: out MUST be set; ref doesn't need to be set
+    answerC: No difference
+    answerD: 
+    answerE: 
+  lastQotdTimestamp: 1739999872
+  lastDynamicHeaderResponse:
+    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/unityBundleFeb25.png
+    topText: Unity 95% OFF on 3 BUNDLES! If just one asset looks interesting then
+      the whole bundle is worth it!
+    topLink: unityassetstore
+    bottomText: My 10+ Years of C# Knowledge in 1 Course!
+    bottomLink: csharpcourse
+  lastDynamicHeaderTimestamp: 1739999872
+  websiteLatestMessage:
+    text: <a href="https://cmonkey.co/tictactoenfefree">I just published my latest
+      FREE course! Click here!</a>
+  websiteLatestMessageTimestamp: 1739999872
+  websiteLatestVideos:
+    videos:
+    - youTubeId: CFN5WSGgn-M
+      title: Only 32% of Games made $500!
+    - youTubeId: ncCQWjtaaGc
+      title: TOP 10 FREE NEW Assets FEBRUARY 2025!
+    - youTubeId: 2H4ouL4bCUs
+      title: AI is creating illiterate programmers! (you?)
+    - youTubeId: n8xZ1zWLjaE
+      title: TOP 10 NEW Games, Made with Unity! (JANUARY 2025)
+  websiteLatestVideosTimestamp: 1739999872
