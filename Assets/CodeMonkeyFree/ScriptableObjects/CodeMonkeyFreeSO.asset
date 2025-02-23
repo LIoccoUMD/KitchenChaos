@@ -14,21 +14,39 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.00
   subtype: kitchenchaos
-  lastShownTimestamp: 1739999872
+  lastShownTimestamp: 1740107659
   lastUpdateResponse:
     version: 1.00
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1739999872
+  checkedLastUpdateTimestamp: 1740107659
   lastQOTDResponse:
-    questionId: 152
-    questionText: What is the main difference between the out and ref keywords? (behaviour
-      inside the function)
-    answerA: out doesn't need to be set; ref MUST be set
-    answerB: out MUST be set; ref doesn't need to be set
-    answerC: No difference
+    questionId: 153
+    questionText: 'When would this code cause an error?
+
+      <p>Building closest
+      = null;</p>
+
+      <p>for (int i = 0; i &lt; instanceList.Count; i++) {</p>
+
+      <p>&nbsp;
+      &nbsp; if (Vector3.Distance(position, instanceList[i].GetPosition()) &lt; Vector3.Distance(position,
+      closest.GetPosition())) {</p>
+
+      <p>&nbsp; &nbsp; &nbsp; &nbsp; closest
+      = instanceList[i];</p>
+
+      <p>&nbsp; &nbsp; }</p>
+
+      <p>}</p>
+
+      <p>return
+      closest;</p>'
+    answerA: When instanceList is empty
+    answerB: When instanceList has at least one element
+    answerC: When instanceList has exactly two elements
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1739999872
+  lastQotdTimestamp: 1740107659
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/unityBundleFeb25.png
     topText: Unity 95% OFF on 3 BUNDLES! If just one asset looks interesting then
@@ -36,11 +54,11 @@ MonoBehaviour:
     topLink: unityassetstore
     bottomText: My 10+ Years of C# Knowledge in 1 Course!
     bottomLink: csharpcourse
-  lastDynamicHeaderTimestamp: 1739999872
+  lastDynamicHeaderTimestamp: 1740107659
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/tictactoenfefree">I just published my latest
       FREE course! Click here!</a>
-  websiteLatestMessageTimestamp: 1739999872
+  websiteLatestMessageTimestamp: 1740107659
   websiteLatestVideos:
     videos:
     - youTubeId: CFN5WSGgn-M
@@ -51,4 +69,4 @@ MonoBehaviour:
       title: AI is creating illiterate programmers! (you?)
     - youTubeId: n8xZ1zWLjaE
       title: TOP 10 NEW Games, Made with Unity! (JANUARY 2025)
-  websiteLatestVideosTimestamp: 1739999872
+  websiteLatestVideosTimestamp: 1740107659
