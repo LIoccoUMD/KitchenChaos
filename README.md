@@ -2,8 +2,9 @@
 
 ---
 
-**Overview**  
-*Kitchen Chaos* is a dynamic cooking game built in Unity, where players whip up recipes like burgers using **6 interactive counters** and **7 unique ingredients**.  
+**Overview** 
+
+Kitchen Chaos is a dynamic cooking game built in Unity, where players whip up recipes like burgers using **6 interactive counters** and **7 unique ingredients**.  
 
 ---
 
